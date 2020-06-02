@@ -1,0 +1,4 @@
+.idea
+TF_2_DOC
+build/*
+!build/.gitkeep
